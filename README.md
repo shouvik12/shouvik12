@@ -5,7 +5,7 @@
 
 [![Watch DEV·TV on YouTube](https://img.youtube.com/vi/yF37kGJiAtc/maxresdefault.jpg)](https://youtu.be/yF37kGJiAtc)
 
-▶️ [Watch the video](https://youtu.be/yF37kGJiAtc) · 📺 [Try it live](https://shouvik12.github.io/devtv/) · 🔦 Spotlight is free right now: submit your project from inside the app
+ 📺 [Try it live](https://shouvik12.github.io/devtv/) · 🔦 Spotlight is free right now: submit your project from inside the app
 
 <a href="https://www.producthunt.com/products/dev-tv?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_campaign=badge-dev-tv" target="_blank" rel="noopener noreferrer"><img alt="DEV·TV - A retro TV for GitHub, HN, Hugging Face & more: 10 channels | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1260239&theme=dark&period=daily"></a>
 
