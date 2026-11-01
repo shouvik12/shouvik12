@@ -12,7 +12,9 @@
 🏆 **#1 Weekly Winner on [IndieNeed](https://www.indieneed.com/weekly-winners)** · Week of Oct 5, 2026
 
 ---
+   **All 14 repos at a glance** · what goes in → what comes out
 
+   <img src="./shouvik12-living-canvas.svg" alt="shouvik12 — 14 repos in 4 channels" width="100%">
 **Selected projects**
 
 - 📺 [**devtv**](https://github.com/shouvik12/devtv) — a retro TV for the developer internet
